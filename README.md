@@ -77,7 +77,7 @@ All exam themes are also available at http://judge.softuni.bg/Contests/#!/List/B
                                                                                                     
                                                                                                     
                             MMMM          MMMMM      MMMMMMMM       MMMMMMMMMM                      
-                         MMMMMMMMM     MMMMMMMMMM    MMMMMMMMMMM    MMMMMMMMMMM                     
+                         MMMMMMMMM     MMMMMMMMMM    MMMMMMMMMMM    MMMMMMMMMMM                      
             MMMM        MMM     MMMM  MMM      MMM    MM      MMM   MM                MMM           
          MMMMM         MMM            MM        MMM   MM      MMM   MM                 MMMMMM       
       MMMM             MMM            MM        MMM   MM       MM   MMMMMMMMMM              MMMM    
