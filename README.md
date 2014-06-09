@@ -63,8 +63,6 @@ All exam themes are also available at http://judge.softuni.bg/Contests/#!/List/B
                              eeee       eeeeeeee                              
 
 
-
-
                  eeeeee      eeeeeee    eeeeeeee     eeeeeeeee           
           eee  eeeeeeeeee   eeeeeeeeee  eeeeeeeeee   eeeeeeeee   eee      
      eeeeeee  eeee    eee  eee     eee  eeee   eeee  eee         eeeeeeee 
@@ -72,7 +70,4 @@ All exam themes are also available at http://judge.softuni.bg/Contests/#!/List/B
       eeeeee  eeee    eee  eee     eee  eeee   eeee  eee         eeeeeee  
           eee  eeeeeeeeee  eeeeeeeeeee  eeeeeeeeee   eeeeeeeee   eee      
                   eee          eee      eeeeee       eeeeeeeee    
-              
-              
-          
-              
+             
